@@ -11,7 +11,7 @@
     "url": "git+https://github.com/serkanalgur/sa-first-module.git"
   },
   "author": "Serkan Algur <info@wpadami.com> (https://wpadami.com)",
-  "license": "ISC",
+  "license": "GPLv3",
   "bugs": {
     "url": "https://github.com/serkanalgur/sa-first-module/issues"
   },
