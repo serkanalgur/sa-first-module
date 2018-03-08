@@ -1,6 +1,6 @@
 {
   "name": "sa-first-module",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "First NPM Package :)",
   "main": "index.js",
   "scripts": {
